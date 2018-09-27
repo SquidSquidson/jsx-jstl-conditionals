@@ -1,0 +1,1 @@
+A small babel plugin package designed to make transitioning from jstl to jsx simpler.  
