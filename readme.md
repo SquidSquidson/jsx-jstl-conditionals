@@ -2,6 +2,7 @@ A small babel plugin package designed to make transitioning from jstl to jsx sim
 
 Pretty much a clone of jsx-control-statements but more customized for my experiences.  
 
+```javascript
 <ForEach var='thisItem' items={items} index='index'>
     {thisItem}
 </ForEach>
@@ -18,3 +19,4 @@ Pretty much a clone of jsx-control-statements but more customized for my experie
         else
     </Otherwise>
 </Choose>
+```
